@@ -7,5 +7,6 @@
     "python.linting.pylintEnabled": false,
     "python.linting.flake8Enabled": true,
     "python.linting.enabled": true,
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "env": {"GMAIL_HOST": "C5.Dev.NZ@gmail.com","GMAIL_HOST_PASSWORD": "uplayuplay6"}
 }
